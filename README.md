@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a **Web Developer** Specialist
 - 🌱 I’m currently learning on [**Nuxt.js**](https://nuxt.com) Framework
-- 🌱 I’m currently learning on [**Next.js**](https://next.com) Framework
+
 
 
 <!-- adding badges -->
