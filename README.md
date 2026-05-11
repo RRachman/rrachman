@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrachman&show_icons=true&theme=gotham)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rrachman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rrachman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rrachman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact).
 
 
 
