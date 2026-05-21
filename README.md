@@ -1,5 +1,5 @@
 <!-- langkah-langkah styling Github Profile -->
-<!-- 1. Buat repository baru dengan nama yang sama dengan username Githubnya, dan pada tahap ini jangan lupa untuk menceklis initialize redme file nya, lalu enter -->
+<!-- 1 Buat repository baru dengan nama yang sama dengan username Githubnya, dan pada tahap ini jangan lupa untuk menceklis initialize redme file nya, lalu enter -->
 <!-- 2. Setelah pembuatan repositorynya selesai, lakukan cloning pada repository tersebut, lalu buka hasil cloning nya melalui vs-code -->
 
 <!--- Untuk dokumentasi dari penulisan markdown ini sendiri sudah disediakan oleh github di halaman berikut: --->
